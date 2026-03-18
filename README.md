@@ -124,15 +124,6 @@ A legacy fallback is included for older browsers.
 
 ---
 
-## Credits
-
-Original algorithm implementation and architecture by  
-**Dr. Paul A. Gagniuc**
-
-Extended with additional interactive features for scientific publication.
-
----
-
 # Changelog
 
 All modifications and additions made to the original application.
@@ -160,10 +151,6 @@ Re-enabled 3D checkbox in navigation bar.
 ---
 
 ## 2. UI & Layout Changes
-
-### Citation Removed
-
-Removed book citation from interface for publication clarity.
 
 ### Run Button Hidden in Panel
 
