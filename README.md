@@ -10,7 +10,7 @@ Interactive Sequence Alignment Visualization Tool
 
 ---
 
-![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(I).png)
+![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(III).png)
 
 ## Overview
 
