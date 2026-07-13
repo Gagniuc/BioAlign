@@ -221,4 +221,4 @@ BioAlign Heatmap — README & Changelog
 
 ***
 
-
+Note: BioAlign Heatmap is a 100% human-designed and human-developed bioinformatics application, created, implemented, tested, and documented without AI-generated code or content. It provides browser-based pairwise sequence alignment and interactive heatmap visualization using the Smith–Waterman local alignment algorithm.
