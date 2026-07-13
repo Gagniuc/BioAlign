@@ -10,6 +10,8 @@ Interactive Sequence Alignment Visualization Tool
 
 ---
 
+![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(I).png)
+
 ## Overview
 
 BioAlign Heatmap is a self-contained, browser-based bioinformatics tool for pairwise sequence alignment and interactive heatmap visualization.
@@ -213,6 +215,7 @@ Relocated `#demo` output above heatmap to improve layout.
 
 BioAlign Heatmap — README & Changelog
 
+![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(II).png)
 
 ## References
 
