@@ -64,22 +64,10 @@ Alignments and experiments can be saved locally in the browser and exported as P
 
 No installation required. The application is a single HTML file.
 
-### Option 1 — Download
-
-Download the repository from GitHub and extract it.
-
-### Option 2 — Clone
-
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
-```
-
-### Run
+### Download & Run
 
 1. Open `index.html` in Chrome, Firefox, Edge, or Safari.
 2. Enter two sequences in the Run panel.
-3. Click **Run**.
 
 The heatmap and alignment text appear instantly.
 
@@ -118,10 +106,7 @@ Tested in:
 - Google Chrome 90+  
 - Mozilla Firefox 88+  
 - Microsoft Edge 90+  
-- Safari 14+  
-
-The Clipboard API requires a secure context (`https://` or `localhost`).  
-A legacy fallback is included for older browsers.
+- Safari 14+
 
 ---
 
@@ -212,8 +197,6 @@ Relocated `#demo` output above heatmap to improve layout.
 - Works with any theme and size
 
 ---
-
-BioAlign Heatmap — README & Changelog
 
 ## References
 
