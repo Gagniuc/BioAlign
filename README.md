@@ -10,7 +10,7 @@ Interactive Sequence Alignment Visualization Tool
 
 ---
 
-![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(III).png)
+![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(I).png)
 
 ## Overview
 
@@ -112,6 +112,9 @@ Tested in:
 
 # Changelog
 
+<details>
+<summary>More [+]</summary>
+
 All modifications and additions made to the original application.
 
 ---
@@ -197,6 +200,7 @@ Relocated `#demo` output above heatmap to improve layout.
 - Works with any theme and size
 
 ---
+</details>
 
 ## References
 
@@ -204,4 +208,4 @@ Relocated `#demo` output above heatmap to improve layout.
 
 ***
 
-![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(II).png)
+![Screenshot](https://github.com/Gagniuc/BioAlign/blob/main/img/AI_made_image_bio_align(III).png)
